@@ -1,0 +1,1 @@
+### [파이썬 클래스 설계방법] (http://dbcafe.co.kr/wiki/index.php/%ED%8C%8C%EC%9D%B4%EC%8D%AC_%ED%81%B4%EB%9E%98%EC%8A%A4_%EC%84%A4%EA%B3%84%EB%B0%A9%EB%B2%95)을 통해 OOP-SOLID 원칙을 공부한 코드입니다.
